@@ -1,4 +1,4 @@
-# DealerMobil
+# Dealer Mobil
 Program ini bertujuan untuk membangun database sementara dengan cara mendaftarkan dan mengedit list mobil dengan mengimplementasikan struktur data linked list.
 
 Pada program ini terdapat beberapa fungsi modular dan satu fungsi main, beberapa fungsi modular yang terdapat pada program ini adalah :
